@@ -36,3 +36,9 @@ https://openweathermap.org/api </li>
 
 <H1> Author </H1>
 Abdellah Tfensir
+
+<H1>Screenshots</H1>
+<img width="1616" height="540" alt="image" src="https://github.com/user-attachments/assets/05207fd6-b59d-4508-b2fa-e3760349cdb3" />
+<img width="1569" height="723" alt="image" src="https://github.com/user-attachments/assets/0a77cbb7-f33a-4f4a-9b10-8284beeb28c8" />
+
+
