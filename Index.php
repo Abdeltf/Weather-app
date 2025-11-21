@@ -1,7 +1,3 @@
-<?php
-
-?>
-
 <html>
 <head>
 
@@ -86,5 +82,6 @@ echo "<p> Die Temperature in <b>$city</b> ist <b>$temperature</b> und der Himmel
 
 
 </body>
+
 
 </html>
